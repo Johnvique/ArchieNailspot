@@ -171,6 +171,7 @@
          </div>
       </section>
       <!-- end banner -->
+      
       <!-- service -->
       <div id="service"  class="service">
          <div class="container">
@@ -185,38 +186,60 @@
                <div class="col-md-4">
                   <div id="hover_chang" class="service_box">
                      <i><img src="images/thr.png" alt="#"/></i>
-                     <h3>Cosmetic</h3>
+                     <h3>Manicure</h3>
                      <p>some form, by injected humour, or randomised words which don't look even slightly believable. If you are </p>
                   </div>
                </div>
                <div class="col-md-4">
                   <div id="hover_chang" class="service_box">
                      <i><img src="images/thr1.png" alt="#"/></i>
-                     <h3>nails</h3>
+                     <h3>Pedicure</h3>
                      <p>some form, by injected humour, or randomised words which don't look even slightly believable. If you are </p>
                   </div>
                </div>
                <div class="col-md-4">
                   <div id="hover_chang" class="service_box">
                      <i><img src="images/thr2.png" alt="#"/></i>
-                     <h3>hairdressing</h3>
+                     <h3>Gel polish</h3>
                      <p>some form, by injected humour, or randomised words which don't look even slightly believable. If you are </p>
                   </div>
                </div>
-               <div class="col-md-12">
-                  <a class="read_more" href="#">Read More</a>
-               </div>
             </div>
+            <div class="row">
+                <div class="col-md-4">
+                   <div id="hover_chang" class="service_box">
+                      <i><img src="images/thr.png" alt="#"/></i>
+                      <h3>Stickons</h3>
+                      <p>some form, by injected humour, or randomised words which don't look even slightly believable. If you are </p>
+                   </div>
+                </div>
+                <div class="col-md-4">
+                   <div id="hover_chang" class="service_box">
+                      <i><img src="images/thr1.png" alt="#"/></i>
+                      <h3>Acrylics</h3>
+                      <p>some form, by injected humour, or randomised words which don't look even slightly believable. If you are </p>
+                   </div>
+                </div>
+                <div class="col-md-4">
+                   <div id="hover_chang" class="service_box">
+                      <i><img src="images/thr2.png" alt="#"/></i>
+                      <h3>Massage services </h3>
+                      <p>some form, by injected humour, or randomised words which don't look even slightly believable. If you are </p>
+                   </div>
+                </div>
+             </div>
          </div>
       </div>
       <!-- service -->
+
+
       <!-- about -->
       <div id="about"  class="about">
          <div class="container">
             <div class="row">
                <div class="col-md-9">
                   <div class="titlepage">
-                     <h2> <img src="images/head.h.png" alt="#"/> About Our Labspa</h2>
+                     <h2> <img src="images/head.h.png" alt="#"/> Ou History</h2>
                      <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are </p>
                      <a class="read_more">Read More</a>
                   </div>
@@ -334,6 +357,7 @@
          </div>
       </div>
       <!-- end contact -->
+      
       <!--  footer -->
       <footer id="contact">
          <div class="footer">
